@@ -46,6 +46,11 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- Deep Spiking Neural Network with Ternary Spikes, BIOCAS, 2022 (accepted)
+- AOME: Autonomous Optimal Mapping Exploration Using Reinforcement Learning for NoC-Based Accelerators Running Neural Networks, ICCD, 2022 (accepted)
+- ACAC: An Adaptive Congestion-aware Approximate Communication Mechanism for Network-on-Chip Systems, CASES, 2022 (accepted)
+- Unsupervised Learning Based on Temporal Coding Using STDP in Spiking Neural Networks, ISCAS, 2022 (accepted)
+- A Hierarchical Parallel Discrete Gaussian Sampler for Lattice-Based Cryptography, ISCAS, 2022 (accepted)
 - An Energy Efficient STDP-Based SNN Architecture With On-Chip Learning, C Sun, H Sun, J Xu, J Han, X Wang, X Wang, Q Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
 - Cerebron: A Reconfigurable Architecture for Spatio-Temporal Sparse Spiking Neural Networks, Q Chen, C Gao, Y Fu, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022
 - Low-Latency Low-Complexity Method and Architecture for Computing Arbitrary Nth Root of Complex Numbers, R Wu, H Chen, G He, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
