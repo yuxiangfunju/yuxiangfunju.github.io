@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor (Research Fellow) in School of Integrated Circuits (集成电路学院), Nanjing University. In 2018, I joined the School of Electronic Science and Engineering, Nanjing University.
+I am currently an Assistant Professor (Research Fellow)、Doctoral Supervisor (博导) in School of Integrated Circuits (集成电路学院), Nanjing University. In 2018, I joined the School of Electronic Science and Engineering, Nanjing University.
 
 I received the B.S. degree in microelectronics and solid state electronics and the Ph.D. degree in electronic science and technology from Nanjing University, Nanjing, China, in 2013 and 2018, respectively.
 
 My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as IEEE TCAD/TCAS-I/TVLSI/TCAS-II) and proceedings (such as ICCD, CASES, ISCAS). I have been authorized 15 patents.
 
+Everyone is welcome to apply for master and doctoral students！ 欢迎大家报考硕士研究生和博士研究生！
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
