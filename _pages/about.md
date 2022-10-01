@@ -24,9 +24,9 @@ I received the B.S. degree in microelectronics and solid state electronics and t
 My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as IEEE TCAD/TCAS-I/TVLSI/TCAS-II) and proceedings (such as ICCD, CASES, ISCAS). I have been authorized 15 patents.
 
 
-;# 🔥 News
-;- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-;- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
 
