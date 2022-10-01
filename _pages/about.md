@@ -57,10 +57,8 @@ Everyone is welcome to apply for master and doctoral students！ 欢迎大家报
 - [Low-complexity high-precision method and architecture for computing the logarithm of complex numbers], H Chen, Z Yu, Y Zhang, Z Lu, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers 68 (8), 2021
 - [Adaptive Successive Cancellation Priority Decoder for 5G Polar Codes], W Song, Y Shen, Y Fu, C Zhang, L Li, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
 - [A general methodology and architecture for arbitrary complex number Nth root computation], H Chen, R Wu, Z Lu, Y Fu, L Li, Z Yu, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
-<!--Dynamic and Traffic-Aware Medium Access Control Mechanisms for Wireless NoC Architectures
-Q Gao, W Song, Z Lu, L Li, Y Fu
-2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5		2021
-Symmetric-Mapping LUT-Based Method and Architecture for Computing XY-Like Functions
+- Dynamic and Traffic-Aware Medium Access Control Mechanisms for Wireless NoC Architectures, Q Gao, W Song, Z Lu, L Li, Y Fu, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5		2021
+<!--Symmetric-Mapping LUT-Based Method and Architecture for Computing XY-Like Functions
 H Chen, H Yang, W Song, Z Lu, Y Fu, L Li, Z Yu
 IEEE Transactions on Circuits and Systems I: Regular Papers 68 (3), 1231-1244	8	2021
 Optimizing Vertical Link Placement and Congestion Aware Dynamic Elevator Assignment for Partially Connected 3D-NoCs
