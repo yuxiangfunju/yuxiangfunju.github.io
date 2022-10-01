@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxiang Fu <br> (傅玉祥)"
+  name             : "Yuxiang Fu <br> 傅玉祥"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University 南京大学"
+  bio              : "Nanjing University <br> 南京大学"
   location         : "Nanjing, Suzhou, China"
   employer         :
   pubmed           : 
