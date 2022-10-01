@@ -44,19 +44,19 @@ Everyone is welcome to apply for master and doctoral students！ 欢迎大家报
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- [An Energy Efficient STDP-Based SNN Architecture With On-Chip Learning], C Sun, H Sun, J Xu, J Han, X Wang, X Wang, Q Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
-- [Cerebron: A Reconfigurable Architecture for Spatio-Temporal Sparse Spiking Neural Networks], Q Chen, C Gao, Y Fu, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022
-- [Low-Latency Low-Complexity Method and Architecture for Computing Arbitrary Nth Root of Complex Numbers], R Wu, H Chen, G He, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
-- [Huicore: A Generalized Hardware Accelerator for Complicated Functions], H Chen, Z Yu, J Xu, L Jiang, Z Lu, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers 69 (6),	2022
-- [Low-Latency Architecture for Implementing Floating-Point Multiplier and Divider Based on Symmetric-Mapping LUT], H Yang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC), 2021
-- [A Low-Complexity Architecture for Implementing Square to Tenth Root of Complex Numbers], J Xu, L Jiang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC),	2021
-- [LSTM-based Temperature Prediction and Hotspot Tracking for Thermal-aware 3D NoC System], T Cheng, H Du, L Li, Y Fu, 2021 18th International SoC Design Conference (ISOCC), 2021
-- [Optimized Method for Thermal Tracking in 3D NoC Systems by Using ANN], M Guo, T Cheng, L Li, Y Fu, 2021 18th International SoC Design Conference (ISOCC), 2021
-- [2β-softmax: A Hardware-Friendly Activation Function with Low Complexity and High Performance], Y Zhang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC), 2021
-- [A 67.5 μJ/prediction accelerator for spiking neural networks in image segmentation], Q Chen, G He, X Wang, J Xu, S Shen, H Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems II: Express Briefs 69 (2), 2021
-- [Low-complexity high-precision method and architecture for computing the logarithm of complex numbers], H Chen, Z Yu, Y Zhang, Z Lu, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers 68 (8), 2021
-- [Adaptive Successive Cancellation Priority Decoder for 5G Polar Codes], W Song, Y Shen, Y Fu, C Zhang, L Li, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
-- [A general methodology and architecture for arbitrary complex number Nth root computation], H Chen, R Wu, Z Lu, Y Fu, L Li, Z Yu, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
+- An Energy Efficient STDP-Based SNN Architecture With On-Chip Learning, C Sun, H Sun, J Xu, J Han, X Wang, X Wang, Q Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
+- Cerebron: A Reconfigurable Architecture for Spatio-Temporal Sparse Spiking Neural Networks, Q Chen, C Gao, Y Fu, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022
+- Low-Latency Low-Complexity Method and Architecture for Computing Arbitrary Nth Root of Complex Numbers, R Wu, H Chen, G He, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
+- Huicore: A Generalized Hardware Accelerator for Complicated Functions, H Chen, Z Yu, J Xu, L Jiang, Z Lu, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers 69 (6),	2022
+- Low-Latency Architecture for Implementing Floating-Point Multiplier and Divider Based on Symmetric-Mapping LUT, H Yang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC), 2021
+- A Low-Complexity Architecture for Implementing Square to Tenth Root of Complex Numbers, J Xu, L Jiang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC),	2021
+- LSTM-based Temperature Prediction and Hotspot Tracking for Thermal-aware 3D NoC System, T Cheng, H Du, L Li, Y Fu, 2021 18th International SoC Design Conference (ISOCC), 2021
+- Optimized Method for Thermal Tracking in 3D NoC Systems by Using ANN, M Guo, T Cheng, L Li, Y Fu, 2021 18th International SoC Design Conference (ISOCC), 2021
+- 2β-softmax: A Hardware-Friendly Activation Function with Low Complexity and High Performance, Y Zhang, H Chen, Y Fu, L Li, 2021 18th International SoC Design Conference (ISOCC), 2021
+- A 67.5 μJ/prediction accelerator for spiking neural networks in image segmentation, Q Chen, G He, X Wang, J Xu, S Shen, H Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems II: Express Briefs 69 (2), 2021
+- Low-complexity high-precision method and architecture for computing the logarithm of complex numbers, H Chen, Z Yu, Y Zhang, Z Lu, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers 68 (8), 2021
+- Adaptive Successive Cancellation Priority Decoder for 5G Polar Codes, W Song, Y Shen, Y Fu, C Zhang, L Li, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
+- A general methodology and architecture for arbitrary complex number Nth root computation, H Chen, R Wu, Z Lu, Y Fu, L Li, Z Yu, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 2021
 - Dynamic and Traffic-Aware Medium Access Control Mechanisms for Wireless NoC Architectures, Q Gao, W Song, Z Lu, L Li, Y Fu, 2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5		2021
 - Symmetric-Mapping LUT-Based Method and Architecture for Computing XY-Like Functions, H Chen, H Yang, W Song, Z Lu, Y Fu, L Li, Z Yu, IEEE Transactions on Circuits and Systems I: Regular Papers 68 (3), 1231-1244, 2021
 - Optimizing Vertical Link Placement and Congestion Aware Dynamic Elevator Assignment for Partially Connected 3D-NoCs, Y Fu, C Zhang, W Song, Q Chen, H Chen, M Zhou, L Li, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,	2020
