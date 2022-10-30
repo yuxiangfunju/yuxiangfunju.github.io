@@ -46,6 +46,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- A Nearest-Neighbor-based Thermal Sensor Allocation and Temperature Reconstruction Method for 3D NoC-based Multicore Systems, IEEE SENSORS JOURNAL, 2022 (accepted)
 - Deep Spiking Neural Network with Ternary Spikes, BIOCAS, 2022 (accepted)
 - AOME: Autonomous Optimal Mapping Exploration Using Reinforcement Learning for NoC-Based Accelerators Running Neural Networks, ICCD, 2022 (accepted)
 - ACAC: An Adaptive Congestion-aware Approximate Communication Mechanism for Network-on-Chip Systems, CASES, 2022 (accepted)
