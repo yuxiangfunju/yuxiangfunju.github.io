@@ -46,13 +46,15 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- A NoC-Based Spatial DNN Inference Accelerator with Memory-Friendly Dataflow, IEEE Design & Test, 2023
+- Low-Cost High-Precision Architecture for Arbitrary Floating-Point Nth Root Computation, ISCAS, 2023
 - A DSP-purposed REconfigurable Acceleration Machine (DREAM) for High Energy Efficiency MIMO Signal Processing, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
-- A Nearest-Neighbor-based Thermal Sensor Allocation and Temperature Reconstruction Method for 3D NoC-based Multicore Systems, IEEE SENSORS JOURNAL, 2022 (accepted)
-- Deep Spiking Neural Network with Ternary Spikes, BIOCAS, 2022 (accepted)
-- AOME: Autonomous Optimal Mapping Exploration Using Reinforcement Learning for NoC-Based Accelerators Running Neural Networks, ICCD, 2022 (accepted)
-- ACAC: An Adaptive Congestion-aware Approximate Communication Mechanism for Network-on-Chip Systems, CASES, 2022 (accepted)
-- Unsupervised Learning Based on Temporal Coding Using STDP in Spiking Neural Networks, ISCAS, 2022 (accepted)
-- A Hierarchical Parallel Discrete Gaussian Sampler for Lattice-Based Cryptography, ISCAS, 2022 (accepted)
+- A Nearest-Neighbor-based Thermal Sensor Allocation and Temperature Reconstruction Method for 3D NoC-based Multicore Systems, IEEE SENSORS JOURNAL, 2022
+- Deep Spiking Neural Network with Ternary Spikes, BIOCAS, 2022
+- AOME: Autonomous Optimal Mapping Exploration Using Reinforcement Learning for NoC-Based Accelerators Running Neural Networks, ICCD, 2022
+- ACAC: An Adaptive Congestion-aware Approximate Communication Mechanism for Network-on-Chip Systems, CASES, 2022
+- Unsupervised Learning Based on Temporal Coding Using STDP in Spiking Neural Networks, ISCAS, 2022
+- A Hierarchical Parallel Discrete Gaussian Sampler for Lattice-Based Cryptography, ISCAS, 2022
 - An Energy Efficient STDP-Based SNN Architecture With On-Chip Learning, C Sun, H Sun, J Xu, J Han, X Wang, X Wang, Q Chen, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
 - Cerebron: A Reconfigurable Architecture for Spatio-Temporal Sparse Spiking Neural Networks, Q Chen, C Gao, Y Fu, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2022
 - Low-Latency Low-Complexity Method and Architecture for Computing Arbitrary Nth Root of Complex Numbers, R Wu, H Chen, G He, Y Fu, L Li, IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
