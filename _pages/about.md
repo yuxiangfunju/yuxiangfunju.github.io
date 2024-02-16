@@ -82,7 +82,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - ANN based adaptive successive cancellation list decoder for polar codes, W Song, Y Fu, Q Chen, L Li, C Zhang, 2019 IEEE 13th International Conference on ASIC (ASICON), 1-4, 2019
 - Congestion-aware dynamic elevator assignment for partially connected 3D-NoCs, Y Fu, Q Chen, G He, K Chen, Z Lu, C Zhang, L Li, 2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2019
 - Smilodon: An efficient accelerator for low bit-width CNNs with task partitioning, Q Chen, Y Fu, K Cheng, W Song, Z Lu, L Li, C Zhang, 2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5,	2019
--Joint detection and decoding of polar-coded OFDM-IDMA systems, X Deng, J Sha, X Zhou, Y Fu, Z Zhang, X You, C Zhang, IEEE Transactions on Circuits and Systems I: Regular Papers 66 (10), 4005-4017,	2019
+- Joint detection and decoding of polar-coded OFDM-IDMA systems, X Deng, J Sha, X Zhou, Y Fu, Z Zhang, X You, C Zhang, IEEE Transactions on Circuits and Systems I: Regular Papers 66 (10), 4005-4017,	2019
 - An efficient hardware accelerator for the MUSIC algorithm, H Chen, K Chen, K Cheng, Q Chen, Y Fu, L Li, Electronics 8 (5), 511, 2019
 - An Efficient Streaming Accelerator for Low Bit-Width Convolutional Neural Networks, Q Chen, Y Fu, W Song, K Cheng, Z Lu, C Zhang, L Li, Electronics 8 (4), 371, 2019
 - Thermal sensor placement and thermal reconstruction under Gaussian and non-Gaussian sensor noises for 3-D NoC, Y Fu, L Li, H Pan, K Wang, F Feng, Q Chen, C Zhang, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,	2018
