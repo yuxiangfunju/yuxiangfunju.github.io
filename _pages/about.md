@@ -46,6 +46,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- TTNNM: Thermal- and Traffic-Aware Neural Network Mapping on 3D-NoC-based Accelerator, GLSVLSI 2024
 - HAS-RL: A Hierarchical Approximate Scheme Optimized with Reinforcement Learning for NoC-based NN Accelerators, IEEE Transactions on Circuits and Systems I: Regular Papers, 2024
 - A General Methodology and Reconfigurable Architecture for Calculating AB-Like Functions in the Complex Field, IEEE Transactions on Circuits and Systems II: Express Briefs, 2023
 - A NoC-Based Spatial DNN Inference Accelerator with Memory-Friendly Dataflow, IEEE Design & Test, 2023
