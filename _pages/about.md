@@ -46,7 +46,8 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning， IEEE Transactions on Computers， 2024
+- An Energy Efficient Residual Spiking Neural Network Accelerator with Ternary Spikes，IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
+- Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning， IEEE Transactions on Computers, 2024
 - Communication Synchronization-aware Arbitration Policy in NoC-based DNN Accelerators, IEEE Transactions on Circuits and Systems II: Express Briefs, 2024
 - TTNNM: Thermal- and Traffic-Aware Neural Network Mapping on 3D-NoC-based Accelerator, GLSVLSI 2024
 - HAS-RL: A Hierarchical Approximate Scheme Optimized with Reinforcement Learning for NoC-based NN Accelerators, IEEE Transactions on Circuits and Systems I: Regular Papers, 2024
