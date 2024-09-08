@@ -21,7 +21,7 @@ I am currently an Assistant Professor (Research Fellow)、Doctoral Supervisor (�
 
 I received the B.S. degree in microelectronics and solid state electronics and the Ph.D. degree in electronic science and technology from Nanjing University, Nanjing, China, in 2013 and 2018, respectively.
 
-My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as IEEE TCAD/TCAS-I/TVLSI/TCAS-II/IEEE SENSORS JOURNAL) and proceedings (such as ICCD, CASES, ISCAS, BioCas). I have been authorized 15 patents.
+My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as IEEE TC/TCAD/TCAS-I/TVLSI/TCAS-II/IEEE SENSORS JOURNAL) and proceedings (such as ASP-DAC, ICCD, CASES, ISCAS, BioCas). I have been authorized 55 patents.
 
 Everyone is welcome to apply for master and doctoral students！ 欢迎大家报考硕士研究生和博士研究生！
 
