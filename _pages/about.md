@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor (Research Fellow)、Doctoral Supervisor (博导) in School of Integrated Circuits (集成电路学院), Nanjing University. In 2018, I joined the School of Electronic Science and Engineering, Nanjing University.
+I am currently an Associate Professor (Research Fellow)、Doctoral Supervisor (博导) in School of Integrated Circuits (集成电路学院), Nanjing University. In 2018, I joined the School of Electronic Science and Engineering, Nanjing University.
 
 I received the B.S. degree in microelectronics and solid state electronics and the Ph.D. degree in electronic science and technology from Nanjing University, Nanjing, China, in 2013 and 2018, respectively.
 
@@ -100,9 +100,12 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - Exploring stacked main memory architecture for 3D GPGPUs, Y Zhang, L Li, A Jantsch, Z Lu, M Gao, Y Fu, H Pan, 2015 IEEE 11th International Conference on ASIC (ASICON), 1-4, 2015
 - Performance and network power evaluation of tightly mixed SRAM NUCA for 3D multi-core network on chips, Y Zhang, L Li, Z Lu, A Jantsch, Y Fu, M Gao, 2014 IEEE International Symposium on Circuits and Systems (ISCAS), 1961-1964, 2014
 
-<!--# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🎖 Honors and Awards
+- First Prize of Jiangsu Provincial Science and Technology Awards, 2023
+- National-level Young Talent
+- Jiangsu Innovation and Entrepreneurship Doctor
+- Suzhou Innovation and Entrepreneurship Leading Talent
+- Xiaomi Young Scholar - Science and Technology Innovation Award
 
 # 📖 Educations
 - *2013.09 - 2018.12*, Ph.D. degree in electronic science and technology, Nanjing University. 
