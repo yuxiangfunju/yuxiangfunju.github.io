@@ -46,6 +46,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- LT-OAQ: Learnable Threshold based Outlier-Aware Quantization and its Energy-Efficient Accelerator for Low-Precision On-Chip Training，DATE，2025
 - Compact Interleaved Thermal Control for Improving Throughput and Reliability of Networks-on-Chip, ASP-DAC 2025
 - Four-class EEG Classification for Seizure Prediction and Detection Using a Lightweight CNN-LSTM, BioCAs 2025
 - An index-free sparse neural network with 2D semiconductor ferroelectric field-effect transistors, Nature Electronics
