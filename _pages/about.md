@@ -46,6 +46,10 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- FPGA-Par: An Efficient Algorithm for Elegant Partitioning in Multi-FPGA Systems,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
+- HengNet: An Ultra-lightweight Model with Two-level Reuse Algorithm for Seizure Detection and Prediction,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
+- NAME: NoC-based Accelerators Map** Exploration for High Performance DNN Inference,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
+- MULiN: A NoC-DNN Accelerator Based on In-Network Multiplication,2025 International Symposium of Electronics Design Automation (ISEDA), 2025
 - Optimizing Mixed-Precision DNN Scheduling on Heterogeneous Socs for Enhanced Robustness and Efficiency, AICAS, 2025
 - FAS-NoC: A Real-time Fused Approximation Scheme Coordinating Communication and Computation for NoC-Based NN Accelerators, IEEE Transactions on Circuits and Systems I: Regular Papers, 2025
 - LT-OAQ: Learnable Threshold based Outlier-Aware Quantization and its Energy-Efficient Accelerator for Low-Precision On-Chip Training，DATE，2025
