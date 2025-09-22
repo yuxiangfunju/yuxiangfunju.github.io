@@ -46,6 +46,8 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers, NeurIPS 2025
+- An Adaptive Congestion-aware approximate communication (ACAC) scheme and implementation for Network-on-Chip systems, Integration, VLSI, 2025
 - FPGA-Par: An Efficient Algorithm for Elegant Partitioning in Multi-FPGA Systems,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
 - HengNet: An Ultra-lightweight Model with Two-level Reuse Algorithm for Seizure Detection and Prediction,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
 - NAME: NoC-based Accelerators Map** Exploration for High Performance DNN Inference,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
