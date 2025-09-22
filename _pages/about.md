@@ -56,8 +56,8 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - FAS-NoC: A Real-time Fused Approximation Scheme Coordinating Communication and Computation for NoC-Based NN Accelerators, IEEE Transactions on Circuits and Systems I: Regular Papers, 2025
 - LT-OAQ: Learnable Threshold based Outlier-Aware Quantization and its Energy-Efficient Accelerator for Low-Precision On-Chip Training，DATE，2025
 - Compact Interleaved Thermal Control for Improving Throughput and Reliability of Networks-on-Chip, ASP-DAC 2025
+- An index-free sparse neural network with 2D semiconductor ferroelectric field-effect transistors, Nature Electronics 2025
 - Four-class EEG Classification for Seizure Prediction and Detection Using a Lightweight CNN-LSTM, BioCAS 2024
-- An index-free sparse neural network with 2D semiconductor ferroelectric field-effect transistors, Nature Electronics
 - An Energy Efficient Residual Spiking Neural Network Accelerator with Ternary Spikes，IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
 - Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning， IEEE Transactions on Computers, 2024
 - Communication Synchronization-aware Arbitration Policy in NoC-based DNN Accelerators, IEEE Transactions on Circuits and Systems II: Express Briefs, 2024
