@@ -21,7 +21,7 @@ I am currently an Associate Professor (Research Fellow)、Doctoral Supervisor (�
 
 I received the B.S. degree in microelectronics and solid state electronics and the Ph.D. degree in electronic science and technology from Nanjing University, Nanjing, China, in 2013 and 2018, respectively.
 
-My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as IEEE TC/TCAD/TCAS-I/TVLSI/TCAS-II/IEEE SENSORS JOURNAL) and proceedings (such as ASP-DAC, ICCD, CASES, ISCAS, BioCas). I have been authorized 55 patents.
+My research interest includes AI for chip architecture design automation, NoC-based multi-core architectures, high energy efficiency AI chip design, reconfigurable computing, and 3D IC design. My papers are published in prestigious international journals (such as Nature Electronics, IEEE TC/TCAD/TCAS-I/TVLSI/TCAS-II/IEEE SENSORS JOURNAL) and proceedings (such as NeurIPS, DATE, ASP-DAC, ICCD, CASES, ISCAS, BioCas).
 
 Everyone is welcome to apply for master and doctoral students！ 欢迎大家报考硕士研究生和博士研究生！
 
@@ -46,6 +46,10 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- A 1.1 µJ/Inference Binary Spiking Neural Network Accelerator for DVS Gesture Recognition, IEEE TCAS-I, 2025
+- NMIX: NoC-Aware Mixed Precision Quantization for Energy-Efficient ML Accelerator, IEEE TCAS-II, 2025
+- Fast Modular Reduction Algorithm and Reconfigurable Domain-Specific Architecture Design Based on Generalized Mersenne Primes, IEEE TVLSI, 2025
+- LPABMs: Low-Power Approximate Booth Multipliers designed for CNN accelerators, FPT, 2025
 - VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers, NeurIPS 2025
 - An Adaptive Congestion-aware approximate communication (ACAC) scheme and implementation for Network-on-Chip systems, Integration, VLSI, 2025
 - FPGA-Par: An Efficient Algorithm for Elegant Partitioning in Multi-FPGA Systems,2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025
@@ -57,6 +61,13 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - LT-OAQ: Learnable Threshold based Outlier-Aware Quantization and its Energy-Efficient Accelerator for Low-Precision On-Chip Training，DATE，2025
 - Compact Interleaved Thermal Control for Improving Throughput and Reliability of Networks-on-Chip, ASP-DAC 2025
 - An index-free sparse neural network with 2D semiconductor ferroelectric field-effect transistors, Nature Electronics 2025
+- 高效率 LSTM 硬件加速器设计与实现, 电子与封装, 2025
+- Sparse Edge PE:一种基于 FPGA 的稀疏数据友好的 CNN 处理引擎设计, 微电子学与计算机， 2025
+- 基于人工神经网络的片上网络加速器延时预测模型，计算机应用研究，2025
+- 基于可重构计算的SAR成像与目标识别高性能实现方法，现代雷达，2024
+- 面向大规格矩阵协方差运算的高性能硬件加速器设计，电子与封装，2024
+- 用于MIMO检测的基于NoC的多核动态可重构架构，现代电子技术，2024
+- 基于RISC-V和可重构智能加速核的异构SoC系统设计，电子与封装，2024
 - Four-class EEG Classification for Seizure Prediction and Detection Using a Lightweight CNN-LSTM, BioCAS 2024
 - An Energy Efficient Residual Spiking Neural Network Accelerator with Ternary Spikes，IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024
 - Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning， IEEE Transactions on Computers, 2024
