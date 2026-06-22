@@ -46,6 +46,11 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- QSNNA: An Energy-Efficient Quaternary Spiking Neural Network Accelerator for Seizure Detection, IEEE TVLSI, 2026
+- Perception-Core: Reconfigurable Energy-Efficient Domain-Specific Architecture with Multimodal Fusion for AIoT, ISCAS, 2026
+- Lightweight Multi-View EEG Seizure Detection with a Two-Stage Low-Power BFP FFT–NN Accelerator, ISCAS, 2026
+- PIM-NoC: A NoC Architecture with In-Router Processing-in-Memory for DNN Acceleration, ISCAS, 2026
+- Thermal-Aware 3D-IC Floorplan Based On TSV-Coordination Simulated Annealing, ISCAS, 2026
 - A 1.1 µJ/Inference Binary Spiking Neural Network Accelerator for DVS Gesture Recognition, IEEE TCAS-I, 2025
 - NMIX: NoC-Aware Mixed Precision Quantization for Energy-Efficient ML Accelerator, IEEE TCAS-II, 2025
 - Fast Modular Reduction Algorithm and Reconfigurable Domain-Specific Architecture Design Based on Generalized Mersenne Primes, IEEE TVLSI, 2025
