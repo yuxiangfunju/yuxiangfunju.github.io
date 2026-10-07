@@ -29,8 +29,7 @@ My research interest includes AI for chip architecture design automation, NoC-ba
 
 主要研究方向：面向芯片架构设计的 AI 方法、基于片上网络（NoC）的多核架构、高能效 AI 芯片设计、可重构计算与三维集成电路设计。论文发表于 Nature Electronics、IEEE TC/TCAD/TCAS-I/TVLSI/TCAS-II、IEEE Sensors Journal 等国际期刊，以及 NeurIPS、DATE、ASP-DAC、ICCD、CASES、ISCAS、BioCAS 等国际会议。
 
-Everyone is welcome to apply for master and doctoral students！ 欢迎大家报考硕士研究生和博士研究生！
-
+Everyone is welcome to apply for master and doctoral students！
 欢迎报考硕士研究生和博士研究生！
 
 Contact E-mail: yuxiangfu@nju.edu.cn
