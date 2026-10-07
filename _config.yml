@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxiang Fu <br> 傅玉祥"
   avatar           : "images/photo.jpg"
-  bio              : "Nanjing University <br> 南京大学"
-  location         : "Nanjing, Suzhou, China"
+  bio              : "Nanjing University 南京大学<br>Associate Professor, School of Integrated Circuits<br>集成电路学院 副教授、博士生导师"
+  location         : "Nanjing, Suzhou, China 中国 南京 / 苏州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ebjt9EYAAAAJ&hl=zh-CN"
