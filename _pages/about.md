@@ -47,6 +47,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 
 ## 2025
 
+- 陈铠, 贺傍, 滕紫珩, **傅玉祥**, 李世平. **高效率LSTM硬件加速器设计与实现**. *电子与封装*, vol. 25, no. 9, p. 090302, 2025. DOI: [10.16257/j.cnki.1681-1070.2025.0103](https://doi.org/10.16257/j.cnki.1681-1070.2025.0103)
 - Xinyi Li, Eunbin Park, Myeongjun Lee, Wenjie Fan, **Yuxiang Fu**, Li Li, Youngjoo Lee. **NMIX: NoC-Aware Mixed Precision Quantization for Energy-Efficient ML Accelerator**. *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 72, no. 12, pp. 2002–2006, 2025. DOI: [10.1109/tcsii.2025.3617919](https://doi.org/10.1109/tcsii.2025.3617919)
 - Chenyang Dai, Yuhao Xie, **Yuxiang Fu**, Han Wang, Bang He. **LPABMs: Low-Power Approximate Booth Multipliers designed for CNN accelerators**. *International Conference on Field-Programmable Technology (FPT)*, pp. 235–238, 2025. DOI: [10.1109/icfpt67023.2025.00046](https://doi.org/10.1109/icfpt67023.2025.00046)
 - Congyi Sun, Boqi Jia, Qinyu Chen, Wenqing Song, Jun Qian, **Yuxiang Fu**, Li Li. **A 5.9 μJ/Inference Reconfigurable Accelerator for Hybrid SNN-ANN Architectures in Event-based Image Recognition**. *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, pp. 150–154, 2025. DOI: [10.1109/biocas67066.2025.00042](https://doi.org/10.1109/biocas67066.2025.00042)
@@ -66,6 +67,8 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - Qinkai Xu, Yijin Liu, Yang Chen, Lin Yang, Li Li, **Yuxiang Fu**. **VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers**. *Advances in Neural Information Processing Systems (NeurIPS)*, pp. 169734–169765, 2025. DOI: [10.52202/085713-5113](https://doi.org/10.52202/085713-5113)
 ## 2024
 
+- 权良华, 王艺霖, 黎思越, 李世平, 陈铠, 邓松峰, 何国强, 冯书谊, **傅玉祥**, 李丽. **基于RISC-V和可重构智能加速核的异构SoC系统设计**. *电子与封装*, vol. 24, no. 9, pp. 090801–090809, 2024. DOI: [10.16257/j.cnki.1681-1070.2024.0121](https://doi.org/10.16257/j.cnki.1681-1070.2024.0121)
+- 陈铠, 刘传柱, 冯建哲, 滕紫珩, 李世平, **傅玉祥**, 李丽, 何国强. **面向大规格矩阵协方差运算的高性能硬件加速器设计**. *电子与封装*, vol. 24, no. 12, pp. 120401–120408, 2024. DOI: [10.16257/j.cnki.1681-1070.2024.0172](https://doi.org/10.16257/j.cnki.1681-1070.2024.0172)
 - Xinyi Li, Wenjie Fan, Heng Zhang, Jinlun Ji, Tong Cheng, Shiping Li, Li Li, **Yuxiang Fu**. **TTNNM: Thermal- and Traffic-Aware Neural Network Mapping on 3D-NoC-based Accelerator**. *ACM Great Lakes Symposium on VLSI (GLSVLSI)*, pp. 364–369, 2024. DOI: [10.1145/3649476.3658703](https://doi.org/10.1145/3649476.3658703)
 - Heng Zhang, Dan Wang, Jinlun Ji, Xiaohan Xue, Congyi Sun, Xinyu Wang, Qinyu Chen, **Yuxiang Fu**, Li Li. **Four-class EEG Classification for Seizure Prediction and Detection Using a Lightweight CNN-LSTM**. *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, pp. 1–5, 2024. DOI: [10.1109/biocas61083.2024.10798214](https://doi.org/10.1109/biocas61083.2024.10798214)
 - Congyi Sun, Wenqing Song, Qinyu Chen, Chenyang Dai, **Yuxiang Fu**, Li Li. **An Energy Efficient Residual Spiking Neural Network Accelerator With Ternary Spikes**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 44, no. 1, pp. 395–400, 2024. DOI: [10.1109/tcad.2024.3443003](https://doi.org/10.1109/tcad.2024.3443003)
@@ -154,13 +157,10 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 
 ## 其他论文（数据库未收录，按原列表保留）
 
-- 高效率 LSTM 硬件加速器设计与实现, 电子与封装, 2025
 - Sparse Edge PE:一种基于 FPGA 的稀疏数据友好的 CNN 处理引擎设计, 微电子学与计算机， 2025
 - 基于人工神经网络的片上网络加速器延时预测模型，计算机应用研究，2025
 - 基于可重构计算的SAR成像与目标识别高性能实现方法，现代雷达，2024
-- 面向大规格矩阵协方差运算的高性能硬件加速器设计，电子与封装，2024
 - 用于MIMO检测的基于NoC的多核动态可重构架构，现代电子技术，2024
-- 基于RISC-V和可重构智能加速核的异构SoC系统设计，电子与封装，2024
 
 # 🎖 Honors and Awards
 - First Prize of Jiangsu Provincial Science and Technology Awards, 2023
@@ -180,3 +180,5 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 <a href="https://info.flagcounter.com/Oymw"><img src="https://s01.flagcounter.com/mini/Oymw/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 
 <!-- supplemented-verified -->
+
+<!-- cn-papers-verified -->
