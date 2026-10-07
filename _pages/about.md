@@ -47,6 +47,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 
 ## 2025
 
+- Xinyi Li, Eunbin Park, Myeongjun Lee, Wenjie Fan, **Yuxiang Fu**, Li Li, Youngjoo Lee. **NMIX: NoC-Aware Mixed Precision Quantization for Energy-Efficient ML Accelerator**. *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 72, no. 12, pp. 2002–2006, 2025. DOI: [10.1109/tcsii.2025.3617919](https://doi.org/10.1109/tcsii.2025.3617919)
 - Chenyang Dai, Yuhao Xie, **Yuxiang Fu**, Han Wang, Bang He. **LPABMs: Low-Power Approximate Booth Multipliers designed for CNN accelerators**. *International Conference on Field-Programmable Technology (FPT)*, pp. 235–238, 2025. DOI: [10.1109/icfpt67023.2025.00046](https://doi.org/10.1109/icfpt67023.2025.00046)
 - Congyi Sun, Boqi Jia, Qinyu Chen, Wenqing Song, Jun Qian, **Yuxiang Fu**, Li Li. **A 5.9 μJ/Inference Reconfigurable Accelerator for Hybrid SNN-ANN Architectures in Event-based Image Recognition**. *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, pp. 150–154, 2025. DOI: [10.1109/biocas67066.2025.00042](https://doi.org/10.1109/biocas67066.2025.00042)
 - Shize Zhou, Wenjie Fan, Siyue Li, Yongqi Xue, Shiping Li, Songfeng Deng, Jinlun Ji, Tong Cheng, Xinyu Wang, Li Li, **Yuxiang Fu**. **An Adaptive Congestion-aware Approximate Communication (ACAC) scheme and implementation for Network-on-Chip systems**. *Integration*, vol. 106, p. 102561, 2025. DOI: [10.1016/j.vlsi.2025.102561](https://doi.org/10.1016/j.vlsi.2025.102561)
@@ -65,6 +66,7 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - Qinkai Xu, Yijin Liu, Yang Chen, Lin Yang, Li Li, **Yuxiang Fu**. **VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers**. *Advances in Neural Information Processing Systems (NeurIPS)*, pp. 169734–169765, 2025. DOI: [10.52202/085713-5113](https://doi.org/10.52202/085713-5113)
 ## 2024
 
+- Xinyi Li, Wenjie Fan, Heng Zhang, Jinlun Ji, Tong Cheng, Shiping Li, Li Li, **Yuxiang Fu**. **TTNNM: Thermal- and Traffic-Aware Neural Network Mapping on 3D-NoC-based Accelerator**. *ACM Great Lakes Symposium on VLSI (GLSVLSI)*, pp. 364–369, 2024. DOI: [10.1145/3649476.3658703](https://doi.org/10.1145/3649476.3658703)
 - Heng Zhang, Dan Wang, Jinlun Ji, Xiaohan Xue, Congyi Sun, Xinyu Wang, Qinyu Chen, **Yuxiang Fu**, Li Li. **Four-class EEG Classification for Seizure Prediction and Detection Using a Lightweight CNN-LSTM**. *IEEE Biomedical Circuits and Systems Conference (BioCAS)*, pp. 1–5, 2024. DOI: [10.1109/biocas61083.2024.10798214](https://doi.org/10.1109/biocas61083.2024.10798214)
 - Congyi Sun, Wenqing Song, Qinyu Chen, Chenyang Dai, **Yuxiang Fu**, Li Li. **An Energy Efficient Residual Spiking Neural Network Accelerator With Ternary Spikes**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 44, no. 1, pp. 395–400, 2024. DOI: [10.1109/tcad.2024.3443003](https://doi.org/10.1109/tcad.2024.3443003)
 - Yongqi Xue, Jinlun Ji, Xinming Yu, Shize Zhou, Siyue Li, Xinyi Li, Tong Cheng, Shiping Li, Kai Chen, Zhonghai Lu, Li Li, **Yuxiang Fu**. **Automatic Generation and Optimization Framework of NoC-Based Neural Network Accelerator Through Reinforcement Learning**. *IEEE Transactions on Computers*, vol. 73, no. 12, pp. 2882–2896, 2024. DOI: [10.1109/tc.2024.3441822](https://doi.org/10.1109/tc.2024.3441822)
@@ -152,7 +154,6 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 
 ## 其他论文（数据库未收录，按原列表保留）
 
-- NMIX: NoC-Aware Mixed Precision Quantization for Energy-Efficient ML Accelerator, IEEE TCAS-II, 2025
 - 高效率 LSTM 硬件加速器设计与实现, 电子与封装, 2025
 - Sparse Edge PE:一种基于 FPGA 的稀疏数据友好的 CNN 处理引擎设计, 微电子学与计算机， 2025
 - 基于人工神经网络的片上网络加速器延时预测模型，计算机应用研究，2025
@@ -160,7 +161,6 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - 面向大规格矩阵协方差运算的高性能硬件加速器设计，电子与封装，2024
 - 用于MIMO检测的基于NoC的多核动态可重构架构，现代电子技术，2024
 - 基于RISC-V和可重构智能加速核的异构SoC系统设计，电子与封装，2024
-- TTNNM: Thermal- and Traffic-Aware Neural Network Mapping on 3D-NoC-based Accelerator, GLSVLSI 2024
 
 # 🎖 Honors and Awards
 - First Prize of Jiangsu Provincial Science and Technology Awards, 2023
@@ -178,3 +178,5 @@ Contact E-mail: yuxiangfu@nju.edu.cn
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 <a href="https://info.flagcounter.com/Oymw"><img src="https://s01.flagcounter.com/mini/Oymw/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
+
+<!-- supplemented-verified -->
