@@ -33,9 +33,8 @@ Everyone is welcome to apply for master and doctoral students！ 欢迎大家报
 
 欢迎报考硕士研究生和博士研究生！
 
-Contact E-mail: yuxiangfu@nju.edu.cn
+Contact E-mail: yuxiangfu at nju dot edu dot cn
 
-联系邮箱：yuxiangfu@nju.edu.cn
 
 # 📝 Publications
 
